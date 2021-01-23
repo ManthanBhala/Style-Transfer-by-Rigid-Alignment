@@ -27,3 +27,29 @@ Download the repository into your system
 ## Results
 
 ![result1](examples/result1.png)
+
+![result2](examples/result2.png)
+
+![result3](examples/result3.png)
+
+![result5](examples/result5.png)
+
+![result7](examples/result7.png)
+
+![result8](examples/result8.png)
+
+## Variation of alpha
+
+![result4](examples/result4.png)
+
+![result6](examples/result6.png)
+
+![sample_alpha](examples/sample_alpha.png)
+
+![result_alpha](examples/result_alpha.png)
+
+## Variation of beta
+
+![sample_beta](examples/sample_beta.png)
+
+![result_beta](examples/result_beta.png)
