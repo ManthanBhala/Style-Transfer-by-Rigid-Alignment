@@ -16,8 +16,8 @@ from models.multilevelnetwork import *
 if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
-    parser.add_argument('--content', type=str, default='inputs/contents/cold.jpg')
-    parser.add_argument('--style', type=str, default='inputs/styles/sketch.png')
+    parser.add_argument('--content', type=str)
+    parser.add_argument('--style', type=str)
     parser.add_argument('--output', type=str, default='outputs/result.jpg')
     parser.add_argument('--pretrained_path', type=str, default='pretrained_models')
     parser.add_argument('--alpha', type=float, default=0)
