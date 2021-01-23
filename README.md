@@ -11,7 +11,7 @@ Download the repository into your system
 
 Here is an example
 
-`python styletransfer.py --content 'inputs/contents/cold.jpg' --style 'inputs/styles/sketch.png' --output 'outputs/cold_sketch.jpg'
+`python styletransfer.py --content 'inputs/contents/cold.jpg' --style 'inputs/styles/sketch.png' --output 'outputs/cold_sketch.jpg'`
 
 ### Additional Flags
 
