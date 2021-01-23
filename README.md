@@ -9,6 +9,10 @@ Download the repository into your system
 
 `python styletransfer.py --content path/to/content/image --style path/to/style/image --output path/to/output/image`
 
+Here is an example
+
+`python styletransfer.py --content 'inputs/contents/cold.jpg' --style 'inputs/styles/sketch.png' --output 'outputs/cold_sketch.jpg'
+
 ### Additional Flags
 
 `--alpha` Choose the value of alpha
@@ -21,7 +25,7 @@ Download the repository into your system
 
 `--beta` Choose the value of beta
 
-`--style1` Set the pathe of the additional style image
+`--style1` Set the path of the additional style image
 
 
 ## Results
